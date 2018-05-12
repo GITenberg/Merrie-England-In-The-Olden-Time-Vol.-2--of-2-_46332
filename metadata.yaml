@@ -1,0 +1,51 @@
+_repo: Merrie-England-In-The-Olden-Time-Vol.-2--of-2-_46332
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gilks, Thomas
+    gutenberg_agent_id: '43726'
+    url: http://www.gutenberg.org/2009/agents/43726
+  - agent_name: Cruikshank, Robert
+    aliases:
+    - Cruikshank, I. Robert (Isaac Robert)
+    - Cruikshank, Isaac Robert
+    - Cruikshank, R. (Robert)
+    - Cruikshank, I. R. (Isaac Robert)
+    birthdate: &id001 1789
+    deathdate: 1856
+    gutenberg_agent_id: '9022'
+    url: http://www.gutenberg.org/2009/agents/9022
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: &id002 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daniel, George
+    alias: Pindar, Peter
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '43055'
+    url: http://www.gutenberg.org/2009/agents/43055
+    wikipedia: http://en.wikipedia.org/wiki/George_Daniel_%28writer%29
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcc 'DA'
+- !lcsh 'England -- Social life and customs'
+title: Merrie England in the Olden Time, Vol. 2
+url: http://www.gutenberg.org/ebooks/46332
